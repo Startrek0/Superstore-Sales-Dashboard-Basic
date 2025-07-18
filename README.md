@@ -24,6 +24,7 @@ The goal of this dashboard is to provide a comprehensive, data-driven view of th
 ✅ Based on the insights, few key recommendations based on the insights: 
 
 •	California, New York providing higher profits with high sales and highest quantity sold, but Washington is appearing higher in profit but lower in sales and quantity sold measures. 
+   
    NOTE: Washington is definitely doing something different as with lower sales and quantity sold measures it is indeed generating more profits. So, something to look deeper into the same. Maybe their cost of selling is less can be a factor among others, explore.
 
 •	Technology category is higher in profit and lower in sales. Hence, Technology can be a promising category for the superstore companies.
