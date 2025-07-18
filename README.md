@@ -7,74 +7,34 @@ The goal of this dashboard is to provide a comprehensive, data-driven view of th
 
 🔍 Key Business Insights
 
-🏆 Top Performing States
+•	Top 5 state by profit – California, New York, Washington, Michigan, Virginia
 
-By Profit:
-California, New York, Washington, Michigan, Virginia
+•	Office Supplies and Technology categories are contributing more for profit
 
-By Sales:
-California, New York, Texas, Washington, Pennsylvania
+•	Consumer segment contributes maximum profit
 
-By Quantity Sold:
-California, New York, Texas, Pennsylvania, Washington
+•	Standard Ship Mode sails to maximum profit
 
-📌 Insight: California and New York consistently dominate across profit, sales, and quantity sold, indicating strong market presence and customer base.
+•	Top 5 state by sales – California, New York, Texas, Washington, Pennsylvania
 
-📦 Category-Level Performance
+•	Office Supplies and Furniture categories are doing more in sales
 
-Higher Profit Contribution:
-Technology
-Office Supplies
+•	Top 5 state by quantity sold – California, New York, Texas, Pennsylvania, Washington
 
-Higher Sales Contribution:
-Furniture
-Office Supplies
+✅ Based on the insights, few key recommendations based on the insights: 
 
-📌 Insight: The Technology category is highly profitable despite lower sales volume, suggesting a high-margin product line.
+•	California, New York providing higher profits with high sales and highest quantity sold, but Washington is appearing higher in profit but lower in sales and quantity sold measures. 
+   NOTE: Washington is definitely doing something different as with lower sales and quantity sold measures it is indeed generating more profits. So, something to look deeper into the same. Maybe their cost of selling is less can be a factor among others, explore.
 
-👥 Customer Segment Analysis
+•	Technology category is higher in profit and lower in sales. Hence, Technology can be a promising category for the superstore companies.
 
-Most Profitable Segment:
-Consumer Segment
-
-🚚 Shipping Mode Efficiency
-
-Maximum Profit Contributor:
-Standard Class Ship Mode
-
-✅ Strategic Recommendations
-
-Deep Dive into Washington’s Profitability
-Washington shows high profitability with relatively lower sales and quantity sold.
-
-🔍 Recommendation: Analyze cost structures, pricing strategies, or operational efficiencies in this region to uncover replicable success factors.
-Focus on High-Margin Categories
-Technology is delivering high profit despite lower sales—an ideal candidate for focused marketing and product bundling strategies.
-
-🔍 Recommendation: Consider expanding the Technology product range or cross-selling with Office Supplies.
-Leverage Consumer Segment Strength
-The Consumer segment is the most profitable.
-
-🔍 Recommendation: Launch loyalty programs, targeted campaigns, or exclusive deals for this segment to further enhance revenue.
-Standard Ship Mode Optimization
-Since Standard Class generates the most profit, consider optimizing logistics and delivery further to reduce costs and maintain satisfaction.
-
-📈 Opportunities for Advanced Analysis & Dashboard Enhancement
-To expand on these insights, the following analytical layers are recommended:
-  
-  🗓️Year-over-Year KPI Comparison
-Analyze trends in Sales, Profit, and Quantity for the current year vs. previous years to identify growth or decline patterns.
-  🛒 vs 💵Sales vs. Profit Correlation
-Assess how strongly sales volumes translate into profits across categories, sub-categories, customer segments, and regions.
-  
-  🔝📅Monthly Sales Extremes
-Identify the highest and lowest sales months year-wise to optimize inventory and promotional strategies.
-  
-  🔁📊Weekly Trend Analysis
-Calculate average weekly sales and profits, and flag weeks that consistently perform above or below average—ideal for planning discounts or campaigns.
+📈 Scope of further viz analysis regarding the superstore sales:
  
-  🧩🔍Sub-Category Deep Dive
-Explore which sub-categories under each main category are outperforming or underperforming to drive micro-level decisions.
+ •	We can compare the KPI trends of current year vs previous years
 
-📌 Conclusion
-This project lays the foundation for strategic, data-backed decisions in sales, marketing, and operations. The dashboard serves not only as a retrospective analysis tool but also as a dynamic reference point for forecasting and optimization.
+ •	To further investigate the sales and profit comparison, find the sales and profit correlation among different product categories, sub- categories, segments etc
+ 
+ •	Find the highest and lowest sales per month basis per year
+
+ •	Find the average sales and profit across years on a weekly basis, the weeks above and below average sales and profit.
+
