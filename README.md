@@ -1,10 +1,12 @@
 # Superstore-Sales-Dashboard-Basic
 
 📊 Superstore Sales Performance Dashboard – Summary & Strategic Insights
+
 🎯 Purpose of the Dashboard Project
 The goal of this dashboard is to provide a comprehensive, data-driven view of the Superstore’s sales and profitability performance across key dimensions such as geography, product categories, customer segments, and shipping modes. The insights aim to drive strategic decisions that enhance profitability, optimize inventory, and improve marketing focus.
 
 🔍 Key Business Insights
+
 🏆 Top Performing States
 
 By Profit:
@@ -15,6 +17,7 @@ California, New York, Texas, Washington, Pennsylvania
 
 By Quantity Sold:
 California, New York, Texas, Pennsylvania, Washington
+
 📌 Insight: California and New York consistently dominate across profit, sales, and quantity sold, indicating strong market presence and customer base.
 
 📦 Category-Level Performance
@@ -30,14 +33,17 @@ Office Supplies
 📌 Insight: The Technology category is highly profitable despite lower sales volume, suggesting a high-margin product line.
 
 👥 Customer Segment Analysis
+
 Most Profitable Segment:
 Consumer Segment
 
 🚚 Shipping Mode Efficiency
+
 Maximum Profit Contributor:
 Standard Class Ship Mode
 
 ✅ Strategic Recommendations
+
 Deep Dive into Washington’s Profitability
 Washington shows high profitability with relatively lower sales and quantity sold.
 
