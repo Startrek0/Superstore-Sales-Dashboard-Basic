@@ -35,27 +35,34 @@ Standard Class Ship Mode
 ✅ Strategic Recommendations
 Deep Dive into Washington’s Profitability
 Washington shows high profitability with relatively lower sales and quantity sold.
+
 🔍 Recommendation: Analyze cost structures, pricing strategies, or operational efficiencies in this region to uncover replicable success factors.
 Focus on High-Margin Categories
 Technology is delivering high profit despite lower sales—an ideal candidate for focused marketing and product bundling strategies.
+
 🔍 Recommendation: Consider expanding the Technology product range or cross-selling with Office Supplies.
 Leverage Consumer Segment Strength
 The Consumer segment is the most profitable.
+
 🔍 Recommendation: Launch loyalty programs, targeted campaigns, or exclusive deals for this segment to further enhance revenue.
 Standard Ship Mode Optimization
 Since Standard Class generates the most profit, consider optimizing logistics and delivery further to reduce costs and maintain satisfaction.
 
 📈 Opportunities for Advanced Analysis & Dashboard Enhancement
 To expand on these insights, the following analytical layers are recommended:
+  
   🗓️Year-over-Year KPI Comparison
 Analyze trends in Sales, Profit, and Quantity for the current year vs. previous years to identify growth or decline patterns.
   🛒 vs 💵Sales vs. Profit Correlation
 Assess how strongly sales volumes translate into profits across categories, sub-categories, customer segments, and regions.
+  
   🔝📅Monthly Sales Extremes
 Identify the highest and lowest sales months year-wise to optimize inventory and promotional strategies.
+  
   🔁📊Weekly Trend Analysis
 Calculate average weekly sales and profits, and flag weeks that consistently perform above or below average—ideal for planning discounts or campaigns.
-	🧩🔍Sub-Category Deep Dive
+ 
+  🧩🔍Sub-Category Deep Dive
 Explore which sub-categories under each main category are outperforming or underperforming to drive micro-level decisions.
 
 📌 Conclusion
