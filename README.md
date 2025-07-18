@@ -6,15 +6,19 @@ The goal of this dashboard is to provide a comprehensive, data-driven view of th
 
 🔍 Key Business Insights
 🏆 Top Performing States
+
 By Profit:
 California, New York, Washington, Michigan, Virginia
+
 By Sales:
 California, New York, Texas, Washington, Pennsylvania
+
 By Quantity Sold:
 California, New York, Texas, Pennsylvania, Washington
 📌 Insight: California and New York consistently dominate across profit, sales, and quantity sold, indicating strong market presence and customer base.
 
 📦 Category-Level Performance
+
 Higher Profit Contribution:
 Technology
 Office Supplies
@@ -22,6 +26,7 @@ Office Supplies
 Higher Sales Contribution:
 Furniture
 Office Supplies
+
 📌 Insight: The Technology category is highly profitable despite lower sales volume, suggesting a high-margin product line.
 
 👥 Customer Segment Analysis
